@@ -15,6 +15,7 @@ Tested on Android 8.0, Should work on 7+
 
 Allows user to choose which screens should be affected (general wallpaper and/or lock screen one)
 
+Note, it require for at least one image to be already set for given id.
 
 <details>
   <summary>Usage</summary>  
