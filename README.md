@@ -19,5 +19,7 @@ Allows user to choose which screens should be affected (general wallpaper and/or
 Screens, warning white, for some reason even when theme is set to dark it saves image using light one 
 <details> 
   <summary> "code", </summary>  
+
 ![code](/images/Walltaker.png)
+
 </details>
