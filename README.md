@@ -29,5 +29,6 @@ Screens, warning white, for some reason even when theme is set to dark it saves 
   <summary> "code", </summary>  
 
 ![code](/images/Walltaker.png)
+  ![code](/images/WalltakerSettings.png)
 
 </details>
