@@ -20,7 +20,9 @@ Note, it require for at least one image to be already set for given id.
 <details>
   <summary>Usage</summary>  
 
-  After importing it into Automate and starting you'll get two dialogs, first asks you for id of your list, second to select which screens it should affect.
+  After importing both .flo files into Automate and starting Walltaker one, first asks you for id of your list, second to select which screens it should affect.
+
+To change your settings turn off your flow and launch WalltakerSettings one. Launching it when main one is running will not affect current settings of that one.
  </details>
 
 
