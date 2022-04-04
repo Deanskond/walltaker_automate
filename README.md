@@ -1,6 +1,6 @@
 # walltaker_automate
 
-!!! CURRENT VERSION HAVE PROBABLY WON'T WORK DUE TO one variable being incorrectly hard coded (and some more stuff), I am going to update it in few hours !!!
+!!! CURRENT VERSION REQUIRES YOU TO LAUNCH SETTINGS MANUALLY before running main program, I am going to update it in few hours !!!
 
 Walltaker client for LlamaLab's Automate
 
