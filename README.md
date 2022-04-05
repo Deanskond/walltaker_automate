@@ -1,10 +1,12 @@
 # walltaker_automate
 
-!!! CURRENT VERSION REQUIRES YOU TO LAUNCH SETTINGS MANUALLY before running main program,  !!!
-Note to self, never promise you are going to do something in few hours, reality doesn't like these promises.
+Now all flows in one file, so it's more accessible for those using free version of automate.
 
 Walltaker client for LlamaLab's Automate
 
+Automatically sets your wallpaper.
+
+Saves every acquired wallpaper into "/walltaker" folder.
 
 [Automate](https://llamalab.com/automate/)
 
@@ -22,9 +24,13 @@ Note, it require for at least one image to be already set for given id.
 <details>
   <summary>Usage</summary>  
 
-  After importing both .flo files into Automate and starting Walltaker one, first asks you for id of your list, second to select which screens it should affect.
+Import WalltakerClient.flo nto Automate (to see how to install and use Atomate check their site). 
 
-To change your settings turn off your flow and launch WalltakerSettings one. Launching it when main one is running will not affect current settings of that one.
+Start WalltakerClient. (Select "Start" option)
+
+If you decide to change settings stop client and start "Settings" option.
+  
+
  </details>
 
 
@@ -32,7 +38,7 @@ Screens, warning white, for some reason even when theme is set to dark it saves 
 <details> 
   <summary> "code", </summary>  
 
-![code](/images/Walltaker.png)
-  ![code](/images/WalltakerSettings.png)
+![code](/images/WalltakerClient.png)
+
 
 </details>
