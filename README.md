@@ -1,6 +1,7 @@
 # walltaker_automate
 
-!!! CURRENT VERSION REQUIRES YOU TO LAUNCH SETTINGS MANUALLY before running main program, I am going to update it in few hours !!!
+!!! CURRENT VERSION REQUIRES YOU TO LAUNCH SETTINGS MANUALLY before running main program,  !!!
+Note to self, never promise you are going to do something in few hours, reality doesn't like these promises.
 
 Walltaker client for LlamaLab's Automate
 
