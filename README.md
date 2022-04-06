@@ -1,6 +1,8 @@
 # walltaker_automate
 
-Now all flows in one file, so it's more accessible for those using free version of automate.
+Now all flows in one file,
+
+Nevermind, I miss remembered how free version is limited, now it requires premium, sorry, will split it again asap. 
 
 Walltaker client for LlamaLab's Automate
 
